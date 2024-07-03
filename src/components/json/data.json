@@ -1,0 +1,165 @@
+{
+  "nombre": "Jose Luis Álvarez Fernández",
+  "descripcionPersonal": "Tengo una alta capacidad para trabajar en grupo y cumplir con plazos estrictos, manteniendo siempre un alto nivel de precisión y profesionalismo. Mi enfoque meticuloso y mi habilidad para analizar datos complejos me permiten tomar decisiones informadas que contribuyen al crecimiento y estabilidad financiera de la organización.",
+  "profesion": "Técnico superior en Administración y Finanzas",
+  "telefono": "+34 717-709-011",
+  "email": "jalvarez6000@gmail.com",
+  "redes": [
+    {
+      "id": 1,
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/in/jalvarezfernandez/",
+      "simbolo":"https://cdn-icons-png.freepik.com/256/3536/3536505.png?ga=GA1.1.935835266.1715188070&semt=ais_hybrid"
+    },
+    {
+      "id": 2,
+      "name": "Instagram",
+      "url": "https://www.instagram.com/fernin_lorenzo/",
+      "simbolo":"https://cdn-icons-png.freepik.com/256/2111/2111463.png?ga=GA1.1.935835266.1715188070&semt=ais_hybrid"
+    },
+    {
+      "id": 3,
+      "name": "tiktok",
+      "url": "https://www.tiktok.com/@ferninlorenzo?lang=es",
+      "simbolo":"https://cdn-icons-png.freepik.com/256/3938/3938055.png?ga=GA1.1.935835266.1715188070&semt=ais_hybrid"
+    },
+    {
+      "id": 4,
+      "name": "facebook",
+      "url": "https://www.facebook.com/profile.php?id=100087266181018",
+      "simbolo":"https://cdn-icons-png.freepik.com/256/13051/13051733.png?ga=GA1.1.935835266.1715188070&semt=ais_hybrid"
+    },
+    {
+      "id": 5,
+      "name": "twitter",
+      "url": "https://x.com/UchihaDFernin",
+      "simbolo":"https://cdn-icons-png.freepik.com/256/3256/3256013.png?ga=GA1.1.935835266.1715188070&semt=ais_hybrid"
+    }
+  ],
+  "aptitudes": [
+    {
+      "id": 1,
+      "name": "Adaptabilidad"
+    },
+    {
+      "id": 2,
+      "name": "Inteligencia emocional"
+    },
+    {
+      "id": 3,
+      "name": "Habilidades comunicativas"
+    },
+    {
+      "id": 4,
+      "name": "Organizado"
+    },
+    {
+      "id": 5,
+      "name": "Puntual"
+    }
+  ],
+  "detallesAdicionales": [
+    {
+      "id": 1,
+      "name": "Disponibilidad inmediata"
+    },
+    {
+      "id": 2,
+      "name": "Flexibilidad horaria"
+    },
+    {
+      "id": 3,
+      "name": "Movilidad geográfica"
+    }
+  ],
+  "experiencias": [],
+  "voluntariados": [
+    {
+      "id": 1,
+      "nombreEmpresa": "Asociación ANÍMATE",
+      "nombrePuesto": "Limpieza de restos arqueológicos",
+      "tipoContrato": "Voluntariado",
+      "lugar": "Toledo",
+      "fechaInicio": "10/8/2021",
+      "fechaFin": "24/8/2021",
+      "descripcion": "Voluntariado en el que se realizó una labor de limpieza en una zona de restos arqueológicos junto a otros voluntarios, mejoró la capacidad para realizar trabajos en equipo."
+    },
+    {
+      "id": 2,
+      "nombreEmpresa": "Asociación ANÍMATE",
+      "nombrePuesto": " Rutas culturales",
+      "tipoContrato": "Voluntariado",
+      "lugar": "Toledo",
+      "fechaInicio": "24/07/2022",
+      "fechaFin": " 07/08/2022",
+      "descripcion": "Dinamizar actos de cultura desarrollando escenarios y diálogos entre personajes y posteriormente interpretar la obra en las calles de Toledo con los otros voluntarios, aumentó la capacidad de comunicación."
+    }
+  ],
+  "estudios": [
+    {
+      "id": 1,
+      "nombreCurso": "Grado superior de administración y finanzas",
+      "centro": "IES Argar",
+      "lugar": "Almería",
+      "fechaInicio": "Septiembre de 2020",
+      "fechaFin": "Aún en curso"
+    },
+    {
+      "id": 2,
+      "nombreCurso": "Bachillerato - Ciencias sociales",
+      "centro": "IES Almeraya",
+      "lugar": "Almería",
+      "fechaInicio": "Septiembre de 2018",
+      "fechaFin": "Julio de 2020"
+    },
+    {
+      "id": 3,
+      "nombreCurso": "ESO",
+      "centro": "IES Carlos III",
+      "lugar": "Aguadulce - Almería",
+      "fechaInicio": "Septiembre de 2014",
+      "fechaFin": "Junio de 2018"
+    }
+  ],
+  "idiomas": [
+    {
+      "id": 1,
+      "nombre": "Español",
+      "nivel": "Nativo"
+    },
+    {
+      "id": 2,
+      "nombre": "Inglés",
+      "nivel": "B1"
+    }
+  ],
+  "tecnologias":[
+    {
+      "id": 1,
+      "nombre": "Word"
+    },
+    {
+      "id": 2,
+      "nombre": "Excel"
+    }
+  ],
+  "capacidades":[
+    {
+      "id": 1,
+      "nombre": "Recursos Humanos",
+      "descripcion":"Control de nóminas y procesos de contratación."
+    },{
+      "id": 2,
+      "nombre": "Contabilidad",
+      "descripcion":"Control de entradas y salidas de dinero de la empresa."
+    },{
+      "id": 3,
+      "nombre": "Financiera",
+      "descripcion":"Préstamos, leasings, etc."
+    },{
+      "id": 4,
+      "nombre": "Logística",
+      "descripcion":"Control sobre el stock de la empresa."
+    }
+  ]
+}
