@@ -99,7 +99,7 @@ const Contact = () => {
         <input
           type="hidden"
           name="_next"
-          value="http://localhost:3000/portfolio"
+          value="https://nebur342.github.io/portfoliojl"
         />
       </form>
     </div>
