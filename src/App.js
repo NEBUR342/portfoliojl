@@ -22,13 +22,13 @@ const Header = () => (
       <div className="row align-items-center justify-content-between mx-1 h-100">
         <div className="col">
           <h2 className="my-auto">
-            <Link to="/portfolio" className="link-unstyled" aria-label="Home">
+            <Link to="/portfoliojl" className="link-unstyled" aria-label="Home">
               <FontAwesomeIcon icon={faHouse} className="icon-home" />
             </Link>
           </h2>
         </div>
         <div className="col d-flex justify-content-end">
-          <Link to="/portfolio/contact" className="mx-1">
+          <Link to="/portfoliojl/contact" className="mx-1">
             <button className="btn btn-info">Contact</button>
           </Link>
         </div>
@@ -40,8 +40,8 @@ const Header = () => (
 const Main = () => (
   <main className="container-fluid main-content bg-secondary py-1 flex-grow-1">
     <Routes>
-      <Route path="/portfolio" element={<Home />} />
-      <Route path="/portfolio/contact" element={<Contact />} />
+      <Route path="/portfoliojl" element={<Home />} />
+      <Route path="/portfoliojl/contact" element={<Contact />} />
       <Route path="" element={<Home />} />
     </Routes>
   </main>
