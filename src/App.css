@@ -73,6 +73,16 @@
   height: 100vh;
 }
 
+.margen-bottom {
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 767px) {
+  .margen-bottom {
+    margin-bottom: 25%;
+  }
+}
+
 .bg-bloque1{
   background-color: #F5B7B1;
 }
