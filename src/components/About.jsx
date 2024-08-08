@@ -48,7 +48,7 @@ const About = () => {
   );
 
   const renderVoluntariados = () =>
-    renderListSection("Voluntariados", data.voluntariados, "bloque1", (voluntariado) => (
+    renderListSection("Voluntariados", [...data.voluntariados].reverse(), "bloque1", (voluntariado) => (
       <li key={voluntariado.id} className="list-group-item my-2">
         <h4>
           <FontAwesomeIcon icon={faBuilding} className="me-2" />
@@ -70,7 +70,7 @@ const About = () => {
     ));
 
   const renderEstudios = () =>
-    renderListSection("Estudios", data.estudios, "bloque2", (estudio) => (
+    renderListSection("Estudios", [...data.estudios].reverse(), "bloque2", (estudio) => (
       <li key={estudio.id} className="list-group-item my-2">
         <h4>
           <FontAwesomeIcon icon={faBuilding} className="me-2" />

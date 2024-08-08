@@ -98,11 +98,11 @@
   "estudios": [
     {
       "id": 1,
-      "nombreCurso": "Grado superior de administración y finanzas",
-      "centro": "IES Argar",
-      "lugar": "Almería",
-      "fechaInicio": "Septiembre de 2020",
-      "fechaFin": "Aún en curso"
+      "nombreCurso": "ESO",
+      "centro": "IES Carlos III",
+      "lugar": "Aguadulce - Almería",
+      "fechaInicio": "Septiembre de 2014",
+      "fechaFin": "Junio de 2018"
     },
     {
       "id": 2,
@@ -114,11 +114,11 @@
     },
     {
       "id": 3,
-      "nombreCurso": "ESO",
-      "centro": "IES Carlos III",
-      "lugar": "Aguadulce - Almería",
-      "fechaInicio": "Septiembre de 2014",
-      "fechaFin": "Junio de 2018"
+      "nombreCurso": "Grado superior de administración y finanzas",
+      "centro": "IES Argar",
+      "lugar": "Almería",
+      "fechaInicio": "Septiembre de 2020",
+      "fechaFin": "Aún en curso"
     }
   ],
   "idiomas": [
